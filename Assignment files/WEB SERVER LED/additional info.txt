@@ -1,0 +1,6 @@
+GPIO26--> INT1
+GND--> GND
+3.3V--> VCC
+
+Used webpage address:
+192.168.1.8
