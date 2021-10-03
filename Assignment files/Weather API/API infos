@@ -1,0 +1,13 @@
+API key: PB8QzH7bYCIfAJvGwieq4m2F42Hl6xAF
+cURL: https://dataservice.accuweather.com/forecasts/v1/daily/1day/206671?apikey=PB8QzH7bYCIfAJvGwieq4m2F42Hl6xAF
+Locality name: Pallavaram
+Locality key: 190792
+cURL: https://dataservice.accuweather.com/forecasts/v1/daily/1day/190792?apikey=PB8QzH7bYCIfAJvGwieq4m2F42Hl6xAF
+
+
+Connection
+
+GND-->GND
+VDD-->3.3V
+SCK-->G18
+SDA-->G19
